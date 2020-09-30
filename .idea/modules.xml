@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/LoopLab.iml" filepath="$PROJECT_DIR$/.idea/LoopLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BootstrapBasic/.idea/BootstrapBasic.iml" filepath="$PROJECT_DIR$/../BootstrapBasic/.idea/BootstrapBasic.iml" />
     </modules>
   </component>
 </project>

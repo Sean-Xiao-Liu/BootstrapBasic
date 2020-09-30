@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42b0ee26-9b2a-44f1-9e19-c28ab49fe0b9" name="Default Changelist" comment="" />
+    <list default="true" id="42b0ee26-9b2a-44f1-9e19-c28ab49fe0b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LoopLab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BootstrapBasic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iF2zqSchBEtoZ3k273HnGIy1Tf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,7 +24,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="2_2_basic_typography.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/BootstrapBasic/bootstrap_sandbox_starter/2_2_basic_typography.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.2_2_basic_typography.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -27,11 +48,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601489284820</updated>
-      <workItem from="1601489287971" duration="171000" />
+      <workItem from="1601489287971" duration="1140000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1451" y="239" key="SettingsEditor" timestamp="1601490532364">
+      <screen x="-1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="-1451" y="239" key="SettingsEditor/0.0.1920.1200/-1920.0.1920.1200/1920.0.1920.1200@-1920.0.1920.1200" timestamp="1601490532364" />
   </component>
 </project>
