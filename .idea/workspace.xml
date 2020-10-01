@@ -28,12 +28,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.2_2_basic_typography.html (1)">
+    <configuration name="2_2_basic_typography.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/BootstrapBasic/bootstrap_sandbox_final/2_2_basic_typography.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="2_2_basic_typography.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/BootstrapBasic/bootstrap_sandbox_starter/2_2_basic_typography.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.2_2_basic_typography.html (1)" />
         <item itemvalue="JavaScript Debug.2_2_basic_typography.html" />
       </list>
     </recent_temporary>
@@ -48,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601489284820</updated>
-      <workItem from="1601489287971" duration="1140000" />
+      <workItem from="1601489287971" duration="3763000" />
     </task>
     <servers />
   </component>
